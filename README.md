@@ -34,8 +34,7 @@ Git还有很多很丰富和很有趣的东西，大家后续也可以继续了�
 开发组意向：架构组
 抱各位大神大腿，提高一下姿势水平，同时希望自己能在开发中尽尽力，进行一些python交易。
 
-Luochunfeng: No software to write Chinese on ubuntu.. /*-+
-             Hope to make some ffffffriends, and be a happy coder
+罗春砜（逻辑组or架构组）：看到一群大腿互相报大腿我慌了。。希望能够多提高自己的技能，还是要学习一个
 			 
 唐宏阳（逻辑组或界面组）：楼上楼下都是大腿
 
