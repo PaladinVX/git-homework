@@ -66,3 +66,5 @@ Luochunfeng: No software to write Chinese on ubuntu.. /*-+
 徐文昊（逻辑组）：向诸位大神学习一个哦。
 
 王思宇（逻辑组or架构组）： 希望能学到很多东西，提高能力。
+
+彭文昱（逻辑组 或 架构组）：还是要向楼上的大神们学习一个
